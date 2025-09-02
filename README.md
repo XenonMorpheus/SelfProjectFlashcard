@@ -1,6 +1,8 @@
 # SelfProjectFlashcard, ([VIBECODE])
 AI-powered flashcard platform para sa students nga gusto mag-study in a faster and smarter way. Clean and lightweight siya, with practice tests, AI-generated study guides, and quick reference notes nga naay key takeaways.Since it's still in the experimental stage, there may be bugs and features that aren't available yet. Tingali ma-polish ni in the upcoming months if I'm not busy, but it's also possible that I'll abandon "THIS PROJECT" if im too busy with my studies.  This project is purely educational and enjoyable, but if it goes well, I might be able to properly deploy it for everyone.
 
+## Yes, this is all AI — my main purpose for this is to learn GitHub configs, n8n, Supabase (modified AI agent), and free cloud server setups. 
+
 ## Features
 - Create and edit flashcards (text, image, or [audio-coming soon])
 - Practice tests with adaptive difficulty

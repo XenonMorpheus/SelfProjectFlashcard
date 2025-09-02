@@ -9,8 +9,11 @@ AI-powered flashcard platform para sa students nga gusto mag-study in a faster a
 
 ## Tools used
 v0 ai,
+
 groq api,
+
 vercel server,
+
 ai made custom chatgpt model supabase
 
 Deploy site:

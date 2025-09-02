@@ -28,15 +28,13 @@ MIT
 
 ## 🛠️ Setup
 1. Clone the repo:
-   ```bash
+   \`\`\`bash
    git clone https://github.com/your-username/ai-flashcards.git
    cd ai-flashcards
    npm install
 Add your .env.local file:
-   ```bash
+   \`\`\`bash
    GOOGLE_CLIENT_ID=your_client_id
    GOOGLE_CLIENT_SECRET=your_client_secret
    NEXTAUTH_URL=http://localhost:3000
    NEXTAUTH_SECRET=your_secret
-
- 
